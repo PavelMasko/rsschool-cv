@@ -5,10 +5,14 @@
 ## Contacts
 ************************
 **Location:** Grodno, Belarus
+
 **Email:** pm.masko@gmail.com
-**GitHub:**  [PavelMasko]("(https://github.com/PavelMasko)")
+
+**GitHub:**  [PavelMasko](https://github.com/PavelMasko)"
+)
 **Telrgramm:** @Pavel_Masko
-**Linkedin:** [PavelMasko]("(https://www.linkedin.com/in/pavel-masko-417193229/)")
+
+**Linkedin:** [PavelMasko]((https://www.linkedin.com/in/pavel-masko-417193229/))
 
 
 ## About Me
@@ -19,9 +23,11 @@ My main goal is to learn new FrontEnd development skills.
 
 ## Skills
 ************************
-**HTML** _(low-Basic)
-**CSS/SASS** _(low-Basic)_
-**Git** _(low-Basic)_
+**HTML** (low-Basic)
+
+**CSS/SASS** (low-Basic)
+
+**Git** (low-Basic)
 
 
 ## Code Example
@@ -38,10 +44,11 @@ function multiply(a, b){
 ************************
 ### Education:
 
-1. #### University:  State University of Grodno Yanka Kupala, Accountant 
+1. #### University:  
+   State University of Grodno Yanka Kupala, Accountant 
 2. #### Courses:
-    - **HTML**  [Code-Basics HTML]("(https://ru.code-basics.com/languages/html)")
-    - **CSS**  [Code-Basics CSS]("(https://ru.code-basics.com/languages/css)")
+    - **HTML**  [Code-Basics HTML](https://ru.code-basics.com/languages/html)
+    - **CSS**  [Code-Basics CSS](https://ru.code-basics.com/languages/css))
 
 3. #### language
 -    English **A1**
