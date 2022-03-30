@@ -2,9 +2,9 @@
 
 --------------
 ## Contacts
-- **Location:** Grodno, Belarus
+- **Location:** Warszawa, Poland
 - **Email:** pm.masko@gmail.com
-- **Telrgramm:** @Pavel_Masko
+- **Telrgramm:** @pavel_pmpd
 - **GitHub:**  [PavelMasko](https://github.com/PavelMasko)
 - **Linkedin:** [Pavel Masko](https://www.linkedin.com/in/pavel-masko-417193229/)
 
